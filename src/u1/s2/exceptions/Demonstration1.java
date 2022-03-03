@@ -5,7 +5,7 @@ public class Demonstration1 {
 		
 		System.out.println("***Demonstration-1.Exploring Exceptions.***");
 		
-		int a = 100;
+		int a = 100;  
 		int b = 2;
 		int result;
 		b -= 2;// b becomes 0
